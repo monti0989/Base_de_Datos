@@ -3,11 +3,18 @@ En la BD utilizada en clase realiza las siguientes consultas:
 * La tabla empleado
 ![image](https://user-images.githubusercontent.com/103137328/176244530-e31c7575-07fc-49ef-aa22-37b408d2b40e.png)
 
-
-
 * Los titulos de las revistas
+![image](https://user-images.githubusercontent.com/103137328/176244702-8c4b77cb-ed3c-4387-be12-ba9140f6e5f5.png)
+
 * Los nombres, apellidos y especialidad de los periodostas
+
+![image](https://user-images.githubusercontent.com/103137328/176246057-991fbaa6-7b98-4fd9-b91e-2cfc41ad9427.png)
+
 * Muestra los empleados que estan en x sucursal
+
+![image](https://user-images.githubusercontent.com/103137328/176250097-7c6f15bc-634d-45e1-bd21-fb0f5db3dd66.png)
+
+
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
 * En la tabla peridistas muestra solo los que escriban sobre cine
