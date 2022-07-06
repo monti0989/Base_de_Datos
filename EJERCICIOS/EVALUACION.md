@@ -84,5 +84,8 @@ https://www.db-fiddle.com/f/f5YQQo1MCXhD95LFCdiYFB/22
 
 https://www.db-fiddle.com/f/s77gC6K91difutRLEhXG3x/24
 
+en esta version se va a comentar (nombre que se actualizo y la nueva version)
 https://www.db-fiddle.com/f/s77gC6K91difutRLEhXG3x/28
 
+esta version es para mi y aqui voy a detectar los errores
+https://www.db-fiddle.com/f/hBWSawuczUKMqHqFX5Wfxi/0
