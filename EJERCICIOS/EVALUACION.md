@@ -89,3 +89,6 @@ https://www.db-fiddle.com/f/s77gC6K91difutRLEhXG3x/28
 
 esta version es para mi y aqui voy a detectar los errores
 https://www.db-fiddle.com/f/hBWSawuczUKMqHqFX5Wfxi/0
+
+
+https://www.db-fiddle.com/f/x3nyzsY8XxJjRUxadJeM1i/21
