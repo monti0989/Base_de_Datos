@@ -9,9 +9,16 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+    R=es un almacén de datos empresariales que fue diseñado para facilitar la toma de decisiones en administración. No solo incluye datos, sino herramientas,      
+      procedimientos, capacitación, apoyo de personal y otras facilidades que facilitan el acceso a los datos para aquellos que toman decisiones.
+      
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![image](https://user-images.githubusercontent.com/103137328/178087124-14e9e3d6-dca9-4f8e-b410-e31128212412.png)
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![image](https://user-images.githubusercontent.com/103137328/178087446-cd8b4820-54a5-46d0-852a-ef20bf51c809.png)
 
 
 ## Práctica 7
